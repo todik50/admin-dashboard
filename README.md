@@ -5,6 +5,12 @@
 A simple, customizable admin dashboard built with **Next.js**.  
 This project provides a clean starting point with 5 pre-configured pages that you can fill with your own content.
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="./public/demo.png" alt="Admin Dashboard Preview" width="800"/>
+</p>
+
 ## ✨ Features
 
 - ⚡️ Built with Next.js (React + Vercel Ready)
@@ -65,7 +71,3 @@ Each page is intentionally empty so you can add your own components, data, and d
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-```
-
-```
